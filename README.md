@@ -22,16 +22,6 @@ Open to collaborating on scalable web applications. Let's build something awesom
 
 Connect on [Email](shoaib100aib@gmail.com).
 
-## 😄 Pronouns
-
-He/Him
-
-## ⚡ Fun Fact
-
-Avid rock climber—scaling heights in both the digital and physical worlds.
-
-Let's connect and create amazing things together! 🚀
-
 <!---
 xoaeb/xoaeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
